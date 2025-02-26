@@ -1,0 +1,23 @@
+.inicio {
+    display: flex;
+    flex-direction: column;
+}
+
+.inicio h1 {
+    margin: 27% 0px 0px 50px;
+    font-size: 150px;
+}
+
+.inicio h2 {
+    margin-left: 60px;
+    font-size: 30px;
+}
+
+.inicio button {
+    width: 123px;
+    padding: 5px;
+    margin-left: 60px;
+    font-size: 20px;
+    border: 2px solid;
+    border-radius: 5px; 
+}

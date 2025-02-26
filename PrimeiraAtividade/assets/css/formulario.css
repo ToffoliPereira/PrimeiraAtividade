@@ -1,0 +1,18 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    height: 50vh;
+}
+
+.form h2 {
+    margin-left: 60px;
+    font-size: 40px;
+    color: #81be3f;
+}
+
+.principal {
+    margin-top: 2%;
+    width: 50%;
+    height: 60%;
+    margin-left: 25%;
+}
